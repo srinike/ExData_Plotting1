@@ -1,3 +1,15 @@
+## Instructions for running the code
+
+1. Please copy the source (R) files to the working directory.
+2. Please copy the data (household_power_consumption.txt) to the working directory.
+3. To create plot1, source plot1.R file and run createplot1() function. It will create plot1.png file in the working directory
+4. To create plot2, source plot2.R file and run createplot2() function. It will create plot2.png file in the working directory
+5. To create plot3, source plot3.R file and run createplot3() function. It will create plot3.png file in the working directory
+6. To create plot4, source plot4.R file and run createplot4() function. It will create plot4.png file in the working directory
+
+Hope these instructions are helpful.
+
+
 ## Introduction
 
 This assignment uses data from
